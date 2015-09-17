@@ -1,0 +1,21 @@
+#include <TVout.h>
+#include <pollserial.h>
+#include <fontALL.h>
+
+TVout TV;
+pollserial pserial;
+
+void setup()  {
+  TV.begin(_NTSC,128,85);
+  TV.select_font(font6x8);
+  TV.println(7,7,"Just the Temp ");
+  TV.println("-- Version 0.1 --");
+  TV.set_hbi_hook(pserial.begin(9600));
+}
+
+void loop() {
+  if (pserial.available()) {
+    
+    TV.print((char)pserial.read());
+  }
+}
