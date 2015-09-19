@@ -1,31 +1,11 @@
-## Synopsis
+## I2C LED matrix backpack from Adafruit.
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
+- main-matrix-all-the-things.ino = randomDot, randomDots, bug, randomLine, orbitSpiralizer, orbit, radar, crosshatch, strobe, runner, run_standy, fire
+- old-matrix-test-all-the-things.ino = Archive of the above file.
+- old-matrix-test.ino
+- serial-matrix-test.ino
+- serial-print-whats-sent.ino = Will scroll any string sent via serial port to matrix.
+- serial-to-matrix-NO-scroll.ino
+- serial-to-matrix-YES-scroll-simple.ino = Will scroll any string sent via serial port to matrix.
+- serial-to-matrix-scroll.ino
+- spiral.ino = Duplicate now included in main-matrix-all-the-things.ino.
