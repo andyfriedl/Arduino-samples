@@ -1,5 +1,5 @@
 # Arduino-samples
-Samples of Arduino snippets and projects that I have created or modified.
+Samples of Arduino snippets and projects that I have created or modified. Please excuse any formatting and code sloppiness. I'm sure there are better ways to do things but this my attenpt of diving in and learning as I go.
 
 ###LED 8x8 matrix.
 
