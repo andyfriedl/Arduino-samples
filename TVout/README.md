@@ -23,3 +23,5 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 
 http://i.imgur.com/fSngg6M.gif
 ![Move in curves](http://i.imgur.com/fSngg6M.gif)
+![Animated gif for max7219 and and DS1307 RTC](http://i.imgur.com/bLKdiHP.gif)
+
