@@ -19,3 +19,7 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 - time.ino
 - tvout-lines-cols-dots.ino - All the things on the screen.
 - uscTest.ino - UI test
+
+
+http://i.imgur.com/fSngg6M.gif
+![Move in curves](http://i.imgur.com/fSngg6M.gif)
