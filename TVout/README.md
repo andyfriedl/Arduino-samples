@@ -22,6 +22,5 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 
 
 http://i.imgur.com/fSngg6M.gif
-![Move in curves](http://imgur.com/fSngg6M.gif)
-![alt tag](https://raw.github.com/andyfriedl/Arduino-samples/edit/master/TVout/fSngg6M.gif)
+![Move in curves](http://imgur.com/Q1Xt7Jg)
 
