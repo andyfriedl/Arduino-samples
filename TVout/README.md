@@ -1,4 +1,5 @@
 ## TVout snippets and projects
+![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
 All of this is a work in progress. Just wanted to share what I have. Most of these are just visual effects.
 
@@ -19,8 +20,9 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 - time.ino
 - tvout-lines-cols-dots.ino - All the things on the screen.
 - uscTest.ino - UI test
+![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
 
 http://i.imgur.com/fSngg6M.gif
-![Move in curves](http://imgur.com/Q1Xt7Jg)
+![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
