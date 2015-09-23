@@ -24,6 +24,6 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 
 
 <h1>http://i.imgur.com/fSngg6M.gif</h1>
-<img src="http://i.imgur.com/fSngg6M.gif">
+<img src="http://i.imgur.com/fSngg6M.gif"></br>
 ![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
