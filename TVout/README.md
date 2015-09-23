@@ -23,7 +23,7 @@ All of this is a work in progress. Just wanted to share what I have. Most of the
 ![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
 
-http://i.imgur.com/fSngg6M.gif
+<h1>http://i.imgur.com/fSngg6M.gif</h1>
 <img src="http://i.imgur.com/fSngg6M.gif">
 ![Move in curves](http://i.imgur.com/fSngg6M.gif)
 
