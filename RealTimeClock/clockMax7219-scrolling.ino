@@ -52,25 +52,35 @@ int hint,
 void loop () {
   DateTime now = RTC.now();
 
-  //  Serial.print(now.year(), DEC);
-  //  Serial.print('/');
-  //  Serial.print(now.month(), DEC);
-  //  Serial.print('/');
-  //  Serial.print(now.day(), DEC);
-  //  Serial.print(' ');
-  //  Serial.print(now.hour(), DEC);
-  //  Serial.print(':');
-  //  Serial.print(now.minute(), DEC);
-  //  Serial.print(':');
-  //  Serial.print(now.second(), DEC);
-  //  Serial.println();
+//    Serial.print(now.year(), DEC);
+//    Serial.print('/');
+//    Serial.print(now.month(), DEC);
+//    Serial.print('/');
+//    Serial.print(now.day(), DEC);
+//    Serial.print(' ');
+//    Serial.print(now.hour(), DEC);
+//    Serial.print(':');
+//    Serial.print(now.minute(), DEC);
+//    Serial.print(':');
+//    Serial.print(now.second(), DEC);
+//    Serial.println();
 
   hours = String(now.hour());
 
+  
+//  daylight savings
+  // if (now.hour() > 12) {
+  //   hours = String(now.hour() - 12);
+  // } else {
+  //   //hours = String(now.hour() - 1);
+  //   }
   if (now.hour() > 12) {
-    hours = String(now.hour() - 12);
-  }
+    hours = String(now.hour() - 13);
+  } else {
+     hours = String(now.hour() - 1);
+    }
 
+  
   if (now.minute() > -1 && now.minute() < 10) {
     minutes = "0" + String(now.minute());
   } else {
